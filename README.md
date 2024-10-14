@@ -1,7 +1,7 @@
 <h1>Desafio JavaScript</h1>
 
 <h2>📖 Sobre</h2>
-<p>Projeto desenvolvido no curso Lógica de programação : Explore funções e listas da Alura , que mostra uma página da Web com alguns botões que , quando clicados , realizam ações diferentes</p>
+<p>Projeto desenvolvido no curso Lógica de programação : Explore funções e listas da Alura , que mostra uma página da Web com alguns botões que , quando clicados , realizam ações diferentes </p>
 
 ## 💻Tecnologias
 <div>
